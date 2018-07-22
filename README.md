@@ -1,9 +1,17 @@
 # Front End using Angular and NgRx
 
-For 
+The Angular based Front End For https://github.com/guylil/tonago Project
 
-https://github.com/guylil/tonago 
+### Things you can do
 
-Project
+Running the development server:
+
+''' ng serve'''
+
+Building the app (it will be created at example-dist)
+
+''' ng build'''
+
+### Hi, please do not use this repo for production, it is only 4 fun :)
 
 Cheers
