@@ -6,11 +6,11 @@ The Angular based Front End For https://github.com/guylil/tonago Project
 
 Running the development server:
 
-''' ng serve'''
+`ng serve`
 
 Building the app (it will be created at example-dist)
 
-''' ng build'''
+`ng build`
 
 ### Hi, please do not use this repo for production, it is only 4 fun :)
 
